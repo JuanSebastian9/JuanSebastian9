@@ -1,17 +1,12 @@
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Soy Juan Sebastian Barreto Benavides</h1>
 
-
-
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 Soy un  **Analista de Datos** apasionado por descubrir patrones, extraer insights y transformar datos en conocimiento útil para la toma de decisiones. Me formé en el bootcamp de Análisis de Datos de Henry y he seguido desarrollando mis habilidades de forma autodidacta a través de proyectos prácticos 
 enfocados en análisis estadístico, visualización de datos y limpieza de información.
 
-Trabajo principalmente con Python y sus bibliotecas especializadas como `Pandas`, `NumPy` y `Seaborn`. También tengo experiencia utilizando herramientas de visualización como `Power BI` y en la consulta y manipulación de datos con `SQL`. Me interesa crecer hacia un rol como Científico de Datos, combinando mi pasión por el análisis con un enfoque estratégico para resolver problemas reales.
+Trabajo principalmente con `Python` y sus bibliotecas especializadas como `Pandas`, `NumPy` y `Seaborn`. También tengo experiencia utilizando herramientas de visualización como `Power BI` y en la consulta y manipulación de datos con `SQL`. Me interesa crecer hacia un rol como Científico de Datos, combinando mi pasión por el análisis con un enfoque estratégico para resolver problemas reales.
 
 Estoy comprometido con el aprendizaje continuo y con generar valor a través del uso inteligente de los datos.
 
