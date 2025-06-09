@@ -60,7 +60,7 @@ Desarrollar una carrera como **Científico de Datos**, aplicando herramientas an
 <p align="center">
 <a href="https://www.linkedin.com/in/sebastian-barreto-601095318/"><img src="https://img.shields.io/badge/-Sebastian Barreto%20LInedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="benavidesjuancho922@gmail.com"><img src="https://img.shields.io/badge/-benavidesjuancho922@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-  <a href="https://github.com/chakravarthi-v">
+  <a href="https://github.com/JuanSebastian9">
     <img src="https://img.icons8.com/fluent/48/000000/github.png" width="3.5%"/>
   </a><span>&nbsp;</span>
 
