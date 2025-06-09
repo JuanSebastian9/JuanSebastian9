@@ -3,7 +3,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-## Sobre mi
+
 Soy un  **Analista de Datos** apasionado por descubrir patrones, extraer insights y transformar datos en conocimiento útil para la toma de decisiones. Me formé en el bootcamp de Análisis de Datos de Henry y he seguido desarrollando mis habilidades de forma autodidacta a través de proyectos prácticos 
 enfocados en análisis estadístico, visualización de datos y limpieza de información.
 
@@ -50,16 +50,22 @@ Estoy comprometido con el aprendizaje continuo y con generar valor a través del
 Desarrollar una carrera como **Científico de Datos**, aplicando herramientas analíticas para generar soluciones basadas en evidencia, apoyar la toma de decisiones y contribuir con impacto real en proyectos de datos.
 
 ---
-
 ## 🔗 Enlaces
 
-- GitHub: [JuanSebastian9](https://github.com/JuanSebastian9)
 - Codewars: [Sebastian.io](https://www.codewars.com/users/Sebastian.io)
 - Linkedin.: [Sebastian Barreto](https://www.linkedin.com/in/sebastian-barreto-601095318)
 
----
-
 ## 📞 Contacto
 
-- 📧 benavidesjuancho922@gmail.com  
-- 📱 +57 305 4784710
+<p align="center">
+<a href="https://www.linkedin.com/in/sebastian-barreto-601095318/"><img src="https://img.shields.io/badge/-Sebastian Barreto%20LInedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="benavidesjuancho922@gmail.com"><img src="https://img.shields.io/badge/-benavidesjuancho922@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://github.com/chakravarthi-v">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png" width="3.5%"/>
+  </a><span>&nbsp;</span>
+
+
+
+
+
+  
