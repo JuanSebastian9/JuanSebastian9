@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Soy Juan Sebastian Barreto Benavides</h1>
+<h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Soy Juan Sebastian Barreto Benavides</h1>
 
 
 
